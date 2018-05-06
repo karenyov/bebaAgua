@@ -1,0 +1,103 @@
+body {
+    background-color: white;
+}
+
+label {
+    color: #638799;
+}
+
+.button {
+    border-radius: 3px;
+    background-color: #4d9bbc;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 13px;
+    padding: 7px;
+    width: 85px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 2px;
+}
+
+.div_page {
+    width: 230px;
+}
+
+.div_config {
+    margin-top: 35px;
+    width: 150;
+}
+
+.inputs {
+    width: 80px; 
+}
+
+.div_title {
+    text-align: center;
+}
+
+.separator {
+    width: 100%;
+    border-top: 2px groove white;
+    margin: 5px -5px 5px -3px;
+}
+
+.title {
+    color: #00425f; 
+}
+
+.box {
+    margin: 2px 2px 2px 2px;
+    background: #ebf3f8;
+    padding: 3px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.10);
+}
+
+.button_active {
+    border-radius: 3px;
+    background-color: #56bc4d;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 10px;
+    padding: 3px;
+    width: 50px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 2px;
+}
+
+@font-face {
+    font-family: 'digital-clock-font';
+    src: url('/fonts/digital-7/digital-7.ttf');
+}
+
+#container_config {
+    width:100%;
+    text-align:center;
+    margin-top: 12px;
+    padding: 2px;
+}
+
+#container_img {
+    float:left;
+    width: 40px;
+    height: 35px;
+}
+
+#alarm_digital {
+    display: inline-block;
+    margin:0 auto;
+    width: 80px;
+    height: 35px;
+    font-family: 'digital-clock-font';
+    font-size: 20pt;
+}
+
+#container_active {
+    float:right;
+    width: 55px;
+    height: 35px;
+}
+

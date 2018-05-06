@@ -2,6 +2,9 @@
 
 Projeto Extensão Chrome para te lembrar quando beber água.
 
+![alt text](app.png)
+
+
 ## Características
 
 - Exibe horário configurado
