@@ -20,6 +20,6 @@ Para executar local, basta acessar o menu disponível no navegador Google Chrome
 
 Após isso importar a pasta do projeto na opção exibida na página acessada em extensões.
 
-> Importante! Para testar é necessário habilitar o Modo Desenvolvedor do navegador que também está disponivel na pálgina de extensões.
+> Importante! Para testar é necessário habilitar o Modo Desenvolvedor do navegador que também está disponivel na página de extensões.
 
 
